@@ -1,0 +1,369 @@
+*{
+	margin: 0%;
+	
+}
+body{
+	background-color: #f5f7fa;
+}
+.navbar{
+	padding: 1.8%;
+}
+.navbar a{
+	text-decoration: none;
+	font-size: 17px;
+	color: black;
+	margin-left: 4%;
+	vertical-align: middle;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.logo{
+	margin: 0% 4% !important;
+}
+#signin{
+	background-color: #00baf2;
+	color: white;
+	border-radius: 25px;
+	padding: 0.4% 0.7%;
+	margin-left: 8%;
+}
+.signin2{
+		background-color: darkblue;
+}
+a:hover #signin{
+	background-color: darkblue;
+}
+.smile{
+	background-color: #fafafa;
+	text-align: center;
+	padding: 1%;
+	font-family: sans-serif;
+}
+.sec2{
+	display: flex;
+	justify-content: space-between;
+	padding: 7% 0% 5% 8%;
+}
+
+.sec2 *{
+	margin-bottom: %;
+}
+.downloadbutton{
+	border: black 2px solid;
+	border-radius:25px ;
+	width: 59%;
+	padding:1.5%;
+	background-color: black;
+	color: white;
+	font:15px inter, sans-serif;
+	text-align: center;
+	margin-top: 6%;
+}
+.downloadbutton i{
+	margin: 0% 2%;
+}
+.downloadbutton:hover{
+	background-color: white;
+	color: black;
+}
+.india{
+	font-size: 24px;
+	font-weight: normal;
+	font-family: inter,sans-serif;
+
+}
+.india h1{
+	font-size: 54px;
+}
+.india p{
+	font-size: 20px;
+	font: inter,sans-serif;
+}
+.recharge{
+	margin-top: 6%;
+}
+.india1{
+	margin-top: 8%;
+}
+.head2{
+	margin-top: 3%;
+	padding-top: 4%;
+	padding-left: 7%;
+	text-align: left;
+	font-size: 35px;
+	color: white;
+}
+.sec3{
+	margin-top: 0%;
+	margin-bottom: 0%;
+	background-color: #00adf2;
+}
+.div3{
+	display: flex;
+	justify-content: space-around;
+	padding: 4% 4% 4%;
+	margin-left: 4%;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+	font-size: 18px;
+	line-height: 30px;
+	font-family: 'poppins',sans-serif;
+}
+.div3 a{
+	text-decoration: none;
+	color: white;
+}
+.head3{
+	padding-top: 4%;
+	padding-left: 7%;
+	text-align: left;
+	font-size: 35px;
+	color: white;
+}
+.sec4{
+	margin-top: 0%;
+	margin-bottom: 0%;
+	background-color: #0f4b8a;
+}
+.sec5div1{
+	display: flex;
+	justify-content: center;
+	border: 1px solid white;
+	padding-top: 2%;
+	padding: 8%;
+	border-color: white solid;
+	border-width: 30px;
+
+}
+.sec5h1{
+	margin-top: 5%;
+	margin-left: 15%;
+	font:48px inter,sans-serif;
+	font-weight: bold;
+}
+.sec5h2{
+	border: black 2px solid;
+	border-radius:25px ;
+	width: 45%;
+	padding:2%;
+	background-color: black;
+	color: white;
+	font:15px inter, sans-serif;
+	text-align: center;
+	margin-top: 4%;
+}
+.sec5h2:hover{
+	background-color: white;
+	color: black;
+}
+.sec5{
+	background-color:;
+}
+.sec6{
+	display: flex;
+	justify-content: center;
+	border: 1px solid white;
+	padding-top: 2%;
+	padding: 8%;
+	border-color: white solid;
+	border-width: 30px;
+	
+}
+.sec7{
+	display: flex;
+	justify-content:safe center;
+	padding-top: 2%;
+	border-color: white solid;
+	border-width:30px;
+	background-color:white;
+	padding: 8%;
+}
+.sec7h1{
+	font: 36px inter,sans-serif;
+	font-weight: bold;
+	margin-top: 10%;
+}
+.sec7p{
+	font:17px inter,sans-serif;
+}
+.sec7h2:hover{
+	background-color: #00adf2;
+	color: #0f4b8a;
+}
+.sec7h2{
+	background-color:#00008b ;
+	color:white ;
+	width: 22%;
+	padding: 2%;
+	text-align: center;
+	word-spacing: 2px;
+	letter-spacing: 2px;
+	font: sans-serif;
+	border-radius: 25px;
+	margin-top: 6%;
+}
+.sec5-4div1{
+	display: flex;
+	padding-top: 3%;
+	justify-content: center;
+}
+		.sec5-4head2{
+			font-size: 40px;
+		}
+		.sec6idiv1{
+			display: flex;
+			justify-content: space-between;
+			margin-left: 8%;
+		}
+		.sec6head1{
+			 font:48px inter,sans-serif;
+			 font-weight: bold;
+			  margin: 5% 0% 0% 12%;
+			  padding-top: 5%;
+
+		}
+		.sec6head2{
+			font-size: 40px;
+			margin-top: 10%;
+			font: inter,sans-serif;
+			font-weight: bold;
+		}
+		.sec6img{
+			margin-top: 12%;
+			margin-left: 30%;
+		}
+
+	.section7{
+			background-image: url("images/image33.webp");
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			width: 100%;
+			background-color: rgba(239, 239, 239, 0.5);
+		}
+		.sec7div1{
+			display: flex;
+			justify-content: space-between;
+				padding: 5% 15% 10% 15%;
+		}
+		.sec7div2{
+			margin-left: 0%;
+		}
+		.sec7head1{
+			font-size: 39px;
+			margin-top: 5%;
+		}
+		.section7 p{
+			font-size: 17px;
+			margin-top: 3%;
+		}
+		}
+		.Learn-button{
+			background-color: darkblue;
+			color: white;
+			border-radius: 30px;
+			margin: 3%;
+			padding: 3%;
+			margin-top: 10%;
+			font-size: 20px;
+		}
+		.Learn-button:hover{
+			background-color: skyblue;
+			color: white;
+		}
+		.section6{
+			background-color: white;
+		}
+		.section8{
+			display: flex;
+		}
+		.sec8div1{
+			display: flex;
+			justify-content: space-between;
+			margin-left: 12%;
+		}
+		.sec8head1{
+			font-size: 45px;
+			margin-top: 5%;
+			margin-bottom: 3%;
+		}
+		.section8 p{
+			font-size: 18px;
+		}
+		.sec8img1{
+			margin-top: 15%;
+		}
+		.sec8img2{
+			margin-top: 10%;
+			margin-right: 7%;
+			}
+			.section9{
+				background-color: rgba(239, 239, 239, 0.5);
+			}
+			.sec9div1{
+				display: flex;
+				justify-content: space-between;
+			}
+			.sec9img1{
+				margin-top: 10%;
+				margin-left: 10%;
+			}
+			.sec9img2{
+				margin-top: 35%;
+				margin-bottom: 5%;
+			}
+			.section9 p{
+				margin-top: 3%;
+			}
+			.section10{
+				background-color: white;
+				padding: 7% 10% 3% 10%;
+			}
+			.sec10div1{
+				background-color: rgba(239, 239, 239, 0.5);
+				display: flex;
+				justify-content: space-between;
+			}
+			.sec10div2{
+				margin-left: 10%;
+			}
+			.sec10head1{
+				margin-top: 45%;
+				font-size: 35px;
+				margin-bottom: 5%;
+			}
+			.section10 img{
+				margin-top: 10%;
+			}
+			.sec10div3{
+				background-color: rgba(239, 239, 239, 0.5);
+				display: flex;
+				justify-content: space-between;
+				margin-top: 5%;
+			}
+			.sec10div4{
+				margin-left: 10%;
+			}
+			.sec11head1{
+				font-size: 40px;
+				margin-left: 8%;
+				margin-top: 3%;
+				margin-bottom: 3%;
+			}
+			.sec11head2{
+				margin-top: 3%;
+				margin-bottom: 4%;
+			}
+				.sec11div1{
+					display: flex;
+					justify-content: space-between;
+					margin-left: 8%;
+				}
+				.section11 img{
+					width: 60%;
+				}
+		@media(max-width: 1366px){
+			.navbar a{
+				font-size: 15px;
+			}
+		}
